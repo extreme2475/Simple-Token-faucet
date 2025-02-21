@@ -15,7 +15,7 @@ Simple Token Faucet is a decentralized application that mints a fixed amount of 
 ## 🛠 Installation & Setup
 1. Clone the repository:
    sh
-   git clone https://github.com/yourusername/simple-token-faucet.git
+   git clone https://github.com/extreme2475/simple-token-faucet.git
    cd simple-token-faucet
    
 2. Install dependencies:
