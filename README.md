@@ -53,4 +53,4 @@ This project is licensed under the MIT License.
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📞 Contact
-For queries or collaborations, reach out at [your-email@example.com](mailto:your-email@example.com).# Simple-Token-faucet
+For queries or collaborations, reach out at [rawanihimanshu15@gmail.com](mailto:rawanihimanshu15@gmail.com).# Simple-Token-faucet
